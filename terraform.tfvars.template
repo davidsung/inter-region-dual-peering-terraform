@@ -1,0 +1,5 @@
+instance_type           = "c5.2xlarge"
+network_interface_count = 2
+earth_region            = "ap-southeast-1"
+mars_region             = "ap-northeast-1"
+venus_region            = "eu-west-1"
